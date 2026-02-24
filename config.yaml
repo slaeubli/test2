@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: A Hugo website
+title: Test Website Fennoscandian Network of Palsa Scientists (FENNPALS)
 theme: hugo-lithium
 ignoreFiles:
   - \.Rmd$
